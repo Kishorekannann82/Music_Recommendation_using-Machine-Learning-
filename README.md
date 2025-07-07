@@ -1,4 +1,4 @@
-🎵 Music Recommender System 🎧
+#🎵 Music Recommender System 🎧
 This project is a Music Recommender System built using Streamlit, Spotify API, and machine learning techniques. It recommends songs similar to the selected song, along with their album cover images.
 
 🚀 Features:
